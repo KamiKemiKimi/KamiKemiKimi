@@ -31,6 +31,6 @@ email: askim12@dons.usfca.edu
 
 ## GitHub Stats  
 ---
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamiKemiKimi&show_icons=true&theme=radical)  
+![GitHub Skyline](https://github.com/KamiKemiKimi/YOUR_REPO/raw/main/skyline.svg)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiKemiKimi&layout=compact&theme=radical)
 
