@@ -1,5 +1,6 @@
 ## Hi there I'm Alex 👋
-A software engineer with a bachelor's in computer science from the University of San Francisco.
+A software engineer with a bachelor's in computer science from the University of San Francisco. Graduate May 2023.
+email: askim12@dons.usfca.edu
 
 ### Languages:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -27,3 +28,9 @@ A software engineer with a bachelor's in computer science from the University of
 
 ### Operating Systems:  
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
+
+## GitHub Stats  
+---
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
