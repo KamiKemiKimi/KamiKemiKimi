@@ -1,6 +1,4 @@
 ## Hi there I'm Alex 👋
----
-
 A software engineer with a bachelor's in computer science from the University of San Francisco.
 
 ### Languages:  
