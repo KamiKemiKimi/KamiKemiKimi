@@ -31,6 +31,9 @@ email: askim12@dons.usfca.edu
 
 ## GitHub Stats  
 ---
-![GitHub Skyline](https://github.com/KamiKemiKimi/YOUR_REPO/raw/main/skyline.svg)
+## GitHub Achievements  
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KamiKemiKimi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiKemiKimi&layout=compact&theme=radical)
 
