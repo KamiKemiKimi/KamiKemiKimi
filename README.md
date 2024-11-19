@@ -11,10 +11,12 @@ A software engineer with a bachelor's in computer science from the University of
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=flat&logoColor=white)
 ![Risc-V](https://img.shields.io/badge/-Risc--V-0F2D8C?style=flat&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### Frameworks:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?style=flat&logo=swift&logoColor=white)
 
 ### Tools & Platforms:  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
