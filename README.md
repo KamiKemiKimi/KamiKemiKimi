@@ -1,10 +1,7 @@
-## Hi there I'm Alex  
+## Hi there I'm Alex 👋
 ---
 
-I am a software engineer with a bachelor's in computer science from the University of San Francisco.
-
-## Technologies  
----
+A software engineer with a bachelor's in computer science from the University of San Francisco.
 
 ### Languages:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
