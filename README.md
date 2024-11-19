@@ -11,7 +11,6 @@ A software engineer with a bachelor's in computer science from the University of
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![Racket](https://img.shields.io/badge/-Racket-9F1D20?style=flat&logoColor=white)
 ![Risc-V](https://img.shields.io/badge/-Risc--V-0F2D8C?style=flat&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### Frameworks:  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
