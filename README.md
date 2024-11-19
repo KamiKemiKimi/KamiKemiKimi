@@ -1,6 +1,5 @@
 ## Hi there I'm Alex 👋
-A software engineer with a bachelor's in computer science from the University of San Francisco. Graduate May 2023.
-email: askim12@dons.usfca.edu
+contact me: askim12@dons.usfca.edu
 
 ### Languages:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
