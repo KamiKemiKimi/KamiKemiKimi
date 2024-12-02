@@ -1,4 +1,5 @@
 ## Hi there I'm Alex 👋
+current project as of 12/2/24: a2chat
 contact me: askim12@dons.usfca.edu
 
 ### Languages:  
