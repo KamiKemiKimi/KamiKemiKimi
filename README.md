@@ -1,5 +1,5 @@
 ## Hi there I'm Alex 👋
-current project as of 12/2/24: a2chat
+Next project ideas: A parking app that will notify users if they are in an invalid parking location
 
 contact me: askim12@dons.usfca.edu
 
