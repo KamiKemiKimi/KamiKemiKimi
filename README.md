@@ -1,5 +1,5 @@
 ## Hi there I'm Alex 👋
-Next project ideas: A parking app that will notify users if they are in an invalid parking location
+12/30/24 Idea: IOS parking app to notify users if they are in an invalid parking space in urban settings
 
 contact me: askim12@dons.usfca.edu
 
