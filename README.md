@@ -1,7 +1,8 @@
 ## Hi there I'm Alex 👋
-In development as of December 2024: IOS parking app to notify users if they are in an invalid parking space in urban settings
 
 contact me: askim12@dons.usfca.edu
+
+_In development as of December 2024_: IOS parking app to notify users if they are in an invalid parking space in urban settings
 
 ### Languages:  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
