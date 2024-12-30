@@ -1,5 +1,5 @@
 ## Hi there I'm Alex 👋
-12/30/24 Idea: IOS parking app to notify users if they are in an invalid parking space in urban settings
+In development as of December 2024: IOS parking app to notify users if they are in an invalid parking space in urban settings
 
 contact me: askim12@dons.usfca.edu
 
